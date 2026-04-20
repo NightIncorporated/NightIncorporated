@@ -1,5 +1,6 @@
-## Hi there 👋
+# Welcome to my Github Profile!
 
+![cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVxeDZxa2dtZ3QzcWg5bDBnZmJ6aGNwNWVuMTl6NmFwa2ZnZ2c1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v6HmjWFF80ByC2JcRl/giphy.gif)
 <!--
 **NightIncorporated/NightIncorporated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
