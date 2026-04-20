@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="image-removebg.preview.png" height="100">
+  <img src="image-removebg-preview.png" height="100">
 </p>
 
 <p align="center">
