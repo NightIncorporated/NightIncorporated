@@ -12,6 +12,8 @@
   <img src="image-removebg-preview.png" height="100">
 </p>
 
+<br><br>
+
 <p align="center">
   <img src="dance.gif" height="120">
 </p>
