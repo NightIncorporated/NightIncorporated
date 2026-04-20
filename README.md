@@ -1,7 +1,7 @@
 # Welcome to my Github Profile!
 
-<p align="center">hi, im night, and i love uh coding)</i><br><br>
-
+<p align="center">hi, im night, and i love uh coding</i><br><br>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
 <p align="center">
 <img src="dance.gif" height="100">
   
