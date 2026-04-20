@@ -3,7 +3,7 @@
 <p align="center">im night, and i love uh coding</i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
 
-<p allign="center">i code in</p>i><br><br>
+<p allign="center">i code in</p><br><br>
 <img src="images.webp" height="100>
   
 <p align="center">
