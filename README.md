@@ -1,4 +1,4 @@
-<p align="center"># Welcome to my Github Profile!</i><br><br>
+<br>hiya!</h1>
 
 <p align="center">hi, im night, and i love uh coding</i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
