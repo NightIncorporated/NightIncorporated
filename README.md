@@ -1,5 +1,7 @@
 <h1 align="center">hiya</h1>
-<img src="eb4792a5a58e61aa9a673771e44cde30.gif" height="1001"/>
+<p allign="center">
+<img src="eb4792a5a58e61aa9a673771e44cde30.gif" height="100"/>
+</p>
 
 <p align="center">
   im night, and i love uh coding
