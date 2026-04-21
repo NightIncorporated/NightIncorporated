@@ -28,5 +28,7 @@
 
 <p align="center">
   <img src="dance.gif" height="120">
-  
+  <img src="pat (1).gif" height="120">
+  <img src="dryer.gif" height="120">
+  <img src="NoRagebaitCat.gif" height="120">
 </p>
