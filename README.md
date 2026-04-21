@@ -22,7 +22,9 @@
 <br><br>
 
 
-
+<p align="center">  
+<br><br><a href="https://github.com/NightIncorporated/NightIncorporated/pulls">make a pr to add some gifs!!</a>
+</p>
 
 <p align="center">
   <img src="dance.gif" height="120">
