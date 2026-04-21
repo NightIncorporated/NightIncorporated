@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="image-removebg-preview.png" height="100"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="100"/>
 </a>  
 
 
