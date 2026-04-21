@@ -1,4 +1,4 @@
-<h1 align="center">Hiya!</h1>
+<h1 align="center">hoya</h1>
 
 <p align="center">
   im night, and i love uh coding
