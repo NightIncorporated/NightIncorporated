@@ -1,4 +1,5 @@
-<h1 align="center">hoya</h1>
+<h1 align="center">hiya</h1>
+<img src="eb4792a5a58e61aa9a673771e44cde30.gif" height="1001"/>
 
 <p align="center">
   im night, and i love uh coding
